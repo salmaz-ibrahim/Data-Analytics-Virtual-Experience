@@ -6,3 +6,6 @@ Tasks included in this program were:
  2. Data Cleaning & Modeling
  3. Data Visualization & Storytelling
  4. Present to the Client
+
+
+![Certificate of Completion: ](https://github.com/salmaz-ibrahim/Data-Analytics-Virtual-Experience/blob/main/image_2022-05-29_201852584.png)
